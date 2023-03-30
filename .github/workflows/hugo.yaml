@@ -56,6 +56,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
+          cd .\homepage\th
           hugo \
             --gc \
             --minify \
