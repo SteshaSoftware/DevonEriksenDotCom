@@ -1,3 +1,6 @@
 [submodule "homepage/themes/ananke"]
 	path = homepage/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "homepage/themes/hugo-arcana"]
+	path = homepage/themes/hugo-arcana
+	url = https://github.com/half-duplex/hugo-arcana.git
