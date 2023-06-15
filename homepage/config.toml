@@ -1,4 +1,4 @@
 baseURL = 'http://www.devoneriksen.com/'
 languageCode = 'en-us'
 title = 'Devon Eriksen'
-theme = 'ananke'
+theme = 'hugo-arcana'
