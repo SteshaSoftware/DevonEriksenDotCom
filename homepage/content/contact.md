@@ -10,11 +10,10 @@ draft: false
 {{< rawhtml >}}
 
 <h1 class="text-xl text-gray-800 font-semibold mb-2">
-  Simple contact form 
+  Send me an email
 </h1>
 <p class="mb-6 text-gray-600 w-2/3 leading-normal">
-  This is a simple contact form that submits to FormBackend. Styling for this example is done using TailwindCSS, but that's something
-  you control 100%.
+  Feel free to contact me. This form goes directly to my personal email, I try to respond to all of my reader mail.
 </p>
 
 <form action="https://formsubmit.co/devoneriksen@protonmail.com" method="POST">
