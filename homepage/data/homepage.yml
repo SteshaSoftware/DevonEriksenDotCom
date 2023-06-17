@@ -1,10 +1,4 @@
-banner:
-  enable: true
-  image: "images/mybanner.png"
-  contents: "Welcome to Devon Eriksen's Website, we're glad you could make it"
-  button:
-    contents: "Subscribe Now"
-    url: "#"
+
 items:
   - type: highlights
     items_per_row: 3
