@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/banner.jpg"
+  image: "images/mybanner.png"
   contents: "Welcome to Devon Eriksen's Website, we're glad you could make it"
   button:
     contents: "Subscribe Now"

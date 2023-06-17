@@ -1,6 +1,6 @@
 ---
-title: Blog
+title: Novels
 menu: main
-weight: 30
+weight: 20
 draft: false
 ---
