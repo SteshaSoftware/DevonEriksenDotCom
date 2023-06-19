@@ -2,3 +2,11 @@ baseURL = 'http://www.devoneriksen.com/'
 languageCode = 'en-us'
 title = 'Devon Eriksen'
 theme = ['custom-arcana']
+
+
+[params]
+
+    [[params.social]]
+        title = "Reddit"
+        icon = "fa-reddit"
+        url = "https://old.reddit.com/user/devoneriksenwrites"

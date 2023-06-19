@@ -3,4 +3,4 @@
     [params.footer]
         [params.footer.links]
         [params.footer.contact_form]
-            enabled = false
+            enabled = true
