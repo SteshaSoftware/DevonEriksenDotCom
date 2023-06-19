@@ -738,7 +738,7 @@ button,
 }
 
 /* Box */
-
+/* This is where post formatting happens 0 */
 .box {
     &.highlight {
         text-align: center;
@@ -755,7 +755,7 @@ button,
         }
 
         .inner {
-            margin-left: calc(20% + 2em);
+            margin-left: 0; 
 
             > :last-child {
                 margin-bottom: 0;
@@ -765,6 +765,11 @@ button,
         .image {
             width: 20%;
             margin: 0;
+            margin-right: 20px;
+
+            &:empty {
+                display: none; /* Hide the image container if it's empty */
+            }
         }
     }
 }
