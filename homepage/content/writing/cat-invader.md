@@ -1,6 +1,6 @@
 ---
 title: "You're about to go to bed, when you find a woman getting food out of your 
-refrigerator. It turns out, that 'cat you picked up outside the grocery store, 
+refrigerator. It turns out, that 'cat' you picked up outside the grocery store, 
 wasn't a cat at all."
 date: 2023-06-15T09:03:20-08:00
 

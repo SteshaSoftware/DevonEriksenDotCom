@@ -1,16 +1,24 @@
 {{ define "main" }}
-    <header>
-        <h2>{{ .Title }}</h2>
-        <p>{{ .Description }}</p>
-        {{ if .Site.Params.show_post_dates | default true }}
-            {{- with .Date }}<time>{{ .Format "Jan 2, 2006" }}</time>{{ end }}
-        {{ end }}
-        {{ partial "tags.html" . }}
-    </header>
-
-    {{- if .Params.image }}
-        <span class="image featured"><img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" /></span>
+<header>
+    <h2>{{ .Title }}</h2>
+    <p>{{ .Description }}</p>
+    {{ if .Site.Params.show_post_dates | default true }}
+    {{- with .Date }}<time>{{ .Format "Jan 2, 2006" }}</time>{{ end }}
     {{ end }}
+    {{ partial "tags.html" . }}
+</header>
 
-    {{- .Content }}
+{{- if .Params.image }}
+<span class="image featured"><img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" /></span>
+{{ end }}
+
+{{- .Content }}
+{{ if eq .Section "writing" }}
+<div style="text-align: center;">
+    <a href="https://old.reddit.com/user/devoneriksenwrites">
+        <span class="fab fa-reddit"></span>
+        Read more by Devon Eriksen
+    </a>
+</div>
+{{ end }}
 {{ end }}
