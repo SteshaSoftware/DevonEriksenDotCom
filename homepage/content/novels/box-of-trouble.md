@@ -10,4 +10,3 @@ weight: 20
 
 The second book in the orbital space series. 
 
-The Blurb should go here
