@@ -11,4 +11,4 @@ If you want to snatch a priceless alien artifact from the most heavily defended 
 
 Or you could just send a tramp spacecraft constructed from plans found on internet, and crew it with a failed asteroid miner turned space pirate, a genetically modified - and emotionally unstable - heiress, and a prototype Artificial Intelligence in the midst of a catastrophic identity crisis.
 
-Maybe they won't murder each other on the way there. 
+Maybe they won't murder each other on the way there.
