@@ -1,6 +1,6 @@
 ---
 title: Writing
 menu: main
-weight: 30
+weight: 40
 draft: false
 ---

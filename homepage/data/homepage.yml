@@ -6,7 +6,7 @@ items:
   - type: posts
     heading: Upcoming Novels by Devon Eriksen
     content_type: novels
-    max: 2
+    max: 1
   - type: cta
     contents: Subscribe to Newsletter
     button:

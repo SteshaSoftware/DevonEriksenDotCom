@@ -2,10 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.devoneriksen.com/categories/</loc>
-  </url><url>
     <loc>http://www.devoneriksen.com/</loc>
+    <lastmod>2023-06-15T09:03:20-08:00</lastmod>
+  </url><url>
+    <loc>http://www.devoneriksen.com/novels/theft-of-fire/</loc>
+  </url><url>
+    <loc>http://www.devoneriksen.com/novels/</loc>
+  </url><url>
+    <loc>http://www.devoneriksen.com/writing/</loc>
+    <lastmod>2023-06-15T09:03:20-08:00</lastmod>
+  </url><url>
+    <loc>http://www.devoneriksen.com/about/</loc>
+  </url><url>
+    <loc>http://www.devoneriksen.com/contact/</loc>
+  </url><url>
+    <loc>http://www.devoneriksen.com/tags/short-stories/</loc>
+    <lastmod>2023-06-15T09:03:20-08:00</lastmod>
   </url><url>
     <loc>http://www.devoneriksen.com/tags/</loc>
+    <lastmod>2023-06-15T09:03:20-08:00</lastmod>
+  </url><url>
+    <loc>http://www.devoneriksen.com/tags/writing-prompts/</loc>
+    <lastmod>2023-06-15T09:03:20-08:00</lastmod>
+  </url><url>
+    <loc>http://www.devoneriksen.com/writing/cat-invader/</loc>
+    <lastmod>2023-06-15T09:03:20-08:00</lastmod>
+  </url><url>
+    <loc>http://www.devoneriksen.com/writing/sword-lessons/</loc>
+    <lastmod>2023-06-08T09:03:20-08:00</lastmod>
+  </url><url>
+    <loc>http://www.devoneriksen.com/writing/egg-wizard/</loc>
+    <lastmod>2023-06-07T09:03:20-08:00</lastmod>
+  </url><url>
+    <loc>http://www.devoneriksen.com/writing/beatles/</loc>
+    <lastmod>2023-06-06T09:03:20-08:00</lastmod>
+  </url><url>
+    <loc>http://www.devoneriksen.com/writing/adopted-vampire/</loc>
+    <lastmod>2023-05-30T09:03:20-08:00</lastmod>
+  </url><url>
+    <loc>http://www.devoneriksen.com/categories/</loc>
+  </url><url>
+    <loc>http://www.devoneriksen.com/tags/orbital-space/</loc>
   </url>
 </urlset>
