@@ -13,5 +13,4 @@ hugo.linux
 /.hugo_build.lock
 
 # Visual Studio Crud
-/.vs
-homepage/themes/ananke/
+/homepage/.vs
