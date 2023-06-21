@@ -1,5 +1,10 @@
 <div id="header">
 
+    <h1>
+        <a href="{{ .Site.BaseURL }}" id="logo">
+            {{ with .Site.Data.globalheader.title }}{{ . | markdownify }}{{ else }}{{ .Site.Title }}{{ end }}
+        </a>
+    </h1>
 
     {{- if .Site.Data.globalheader.banner.enable }}
     {{- partial "homepage/banner.html" .Site.Data.globalheader.banner -}}
