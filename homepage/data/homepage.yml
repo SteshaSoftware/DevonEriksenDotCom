@@ -1,5 +1,14 @@
 
+banner:
+  enable: true
+  image: "images/mybanner.png"
+  contents: "Read the First 3 Chapters of "
+  title: "Theft of Fire"
+  button:
+    contents: "Click Here"
+    url: "https://read.bookfunnel.com/read/h6gjdipcpw"
 items:
+  - type: contact
   - type: heading
     heading: Devon Eriksen will be at Liberty Con 06/23-06/25
     contents: Find out more and purchase tickets https://www.libertycon.org/
@@ -7,8 +16,10 @@ items:
     heading: Upcoming Novels by Devon Eriksen
     content_type: novels
     max: 1
-  - type: cta
-    contents: Subscribe to Newsletter
-    button:
-      contents: Subscribe Now
-      url: "#"
+
+  #- type: cta
+  #  contents: Subscribe to Newsletter
+  #  button:
+  #    contents: Subscribe Now
+  #    url: "subscribepage.io/DevonEriksen"
+

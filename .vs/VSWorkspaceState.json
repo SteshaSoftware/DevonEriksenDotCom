@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\homepage",
+    "\\homepage\\themes",
+    "\\homepage\\themes\\custom-arcana",
+    "\\homepage\\themes\\custom-arcana\\exampleSite",
+    "\\homepage\\themes\\custom-arcana\\layouts",
+    "\\homepage\\themes\\custom-arcana\\layouts\\partials",
+    "\\homepage\\themes\\hugo-arcana",
+    "\\homepage\\themes\\hugo-arcana\\layouts",
+    "\\homepage\\themes\\hugo-arcana\\layouts\\partials"
+  ],
+  "SelectedNode": "\\homepage\\themes\\hugo-arcana\\layouts\\partials\\header.html",
+  "PreviewInSolutionExplorer": false
+}
