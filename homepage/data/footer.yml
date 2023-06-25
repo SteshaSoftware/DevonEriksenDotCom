@@ -1,0 +1,8 @@
+footer:
+  items:
+    - type: cta
+      contents: Subscribe to Newsletter
+      button:
+        contents: Subscribe Now
+        url: "subscribepage.io/DevonEriksen"
+

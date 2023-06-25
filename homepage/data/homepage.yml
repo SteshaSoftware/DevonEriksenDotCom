@@ -8,7 +8,12 @@ banner:
     contents: "Click Here"
     url: "https://read.bookfunnel.com/read/h6gjdipcpw"
 items:
-  - type: contact
+  - type: cta
+    #contents: Subscribe to Newsletter
+    button:
+      contents: Subscribe for Book Updates
+      url: "http://subscribepage.io/DevonEriksen"
+
   - type: heading
     heading: Devon Eriksen will be at Liberty Con 06/23-06/25
     contents: Find out more and purchase tickets https://www.libertycon.org/
@@ -16,10 +21,10 @@ items:
     heading: Upcoming Novels by Devon Eriksen
     content_type: novels
     max: 1
-
-  #- type: cta
-  #  contents: Subscribe to Newsletter
-  #  button:
-  #    contents: Subscribe Now
-  #    url: "subscribepage.io/DevonEriksen"
+  
+  - type: cta
+    #contents: Subscribe to Newsletter
+    button:
+      contents: Subscribe for Book Updates
+      url: "http://subscribepage.io/DevonEriksen"
 
