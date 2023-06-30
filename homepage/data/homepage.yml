@@ -14,7 +14,7 @@ items:
       contents: Subscribe for Book Updates
       url: "http://subscribepage.io/DevonEriksen"
 
-  - type: heading
+  #- type: heading
     #heading: Devon Eriksen will be at Liberty Con 06/23-06/25
     #contents: Find out more and purchase tickets https://www.libertycon.org/
   - type: posts
