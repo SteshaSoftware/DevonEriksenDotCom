@@ -10,7 +10,7 @@ theme = ['custom-arcana']
         title = "Twitter"
         icon = "fa-twitter"
         url = "https://twitter.com/Devon_Eriksen_"
-        
+    [[params.social]]
         title = "Reddit"
         icon = "fa-reddit"
         url = "https://old.reddit.com/user/devoneriksenwrites"
