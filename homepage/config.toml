@@ -14,3 +14,7 @@ theme = ['custom-arcana']
         title = "Reddit"
         icon = "fa-reddit"
         url = "https://old.reddit.com/user/devoneriksenwrites"
+    [[params.social]]
+        title = "Mastodon"
+        icon = "fa-mastodon"
+        url = "https://mastodon.social/@DevonEriksen"
