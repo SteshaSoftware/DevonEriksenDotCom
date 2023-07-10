@@ -16,8 +16,8 @@ items:
 
   - type: heading
     heading: Devon Eriksen will be at ChattaCon 01/12-01/14
-    contents: Find out more and purchase tickets https://chattacon.org/ Click here to see more upcoming events
-  `
+    contents: Find out more and purchase tickets https://chattacon.org/\n Click here to see more upcoming events
+    
   - type: posts
     heading: Upcoming Novels by Devon Eriksen
     content_type: novels
