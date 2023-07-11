@@ -5,15 +5,18 @@ theme = ['custom-arcana']
 
 
 [params]
-
+    [[params.social]]
+        title = "Reddit"
+        icon = "fa-reddit"
+        url = "https://reddit.com/user/devoneriksenwrites"
+    [[params.social]]
+        title = "Facebook"
+        icon = "fa-facebook"
+        url = "https://www.facebook.com/profile.php?id=100094477455578"
     [[params.social]]
         title = "Twitter"
         icon = "fa-twitter"
         url = "https://twitter.com/Devon_Eriksen_"
-    [[params.social]]
-        title = "Reddit"
-        icon = "fa-reddit"
-        url = "https://old.reddit.com/user/devoneriksenwrites"
     [[params.social]]
         title = "Mastodon"
         icon = "fa-mastodon"
