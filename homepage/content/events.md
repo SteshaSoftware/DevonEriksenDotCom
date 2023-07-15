@@ -15,3 +15,6 @@ Lebanon, TN
 07/21 - 07/23 [LiberyCon](https://www.libertycon.org/)
 Chattanooga, TN
 
+07/28 - 07/29 [Writer's Cantina](https://writerscantina.org/)
+West Valley City, UT
+
