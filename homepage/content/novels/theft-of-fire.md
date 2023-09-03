@@ -1,6 +1,6 @@
 ---
 title: "Theft of Fire"
-image: images/pic01.jpg
+image: images/3chapter.jpg
 tags:
   - Orbital Space
 draft: false
