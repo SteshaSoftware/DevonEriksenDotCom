@@ -1,7 +1,7 @@
 
 banner:
   enable: true
-  image: "images/mybanner.png"
+  image: "images/bannerThea.png"
   contents: "Read the First 3 Chapters of "
   title: "Theft of Fire"
   button:
