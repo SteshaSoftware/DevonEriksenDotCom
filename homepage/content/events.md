@@ -12,9 +12,14 @@ Chattanooga, TN
 03/01 - 03/03 [ConFinement](https://www.confinementcon.org/)
 Lebanon, TN
 
-07/21 - 07/23 [LiberyCon](https://www.libertycon.org/)
+06/21 - 06/23 [LiberyCon](https://www.libertycon.org/)
 Chattanooga, TN
 
-07/28 - 07/29 [Writer's Cantina](https://writerscantina.org/)
+06/28 - 06/29 [Writer's Cantina](https://writerscantina.org/)
 West Valley City, UT
+
+07/19 - 07/21 [Imaginarum](https://www.entertheimaginarium.com/)
+Louisville, KY
+
+
 
