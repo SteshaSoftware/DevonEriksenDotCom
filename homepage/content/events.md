@@ -6,6 +6,9 @@ draft: false
 ---
 **Upcoming Conventions and Appearances**
 
+10/07 - 10/07 [Next Chapter](https://www.nextchaptercon.com/)
+Dalton, GA
+
 01/12 - 01/14 [ChattaCon](https://chattacon.org/)
 Chattanooga, TN
 
